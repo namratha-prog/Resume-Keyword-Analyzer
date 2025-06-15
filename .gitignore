@@ -1,0 +1,8 @@
+*.class
+*.log
+*.txt
+*.html
+.vscode/
+.idea/
+.DS_Store
+/results/
